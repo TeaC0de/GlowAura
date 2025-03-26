@@ -42,9 +42,10 @@ Looking ahead, I plan to further refine GlowAura’s design by customizing the S
 
 ---
 
-## 🌐 Live Preview  
-🛍️ The store is currently offline as the Shopify trial has ended.  
-A visual walkthrough with screenshots and highlights is available in the repository. (Coming soon)
+## 📖 Behind the Scenes  
+The store is currently offline as the Shopify trial has ended, but the process behind building **GlowAura** is still available to explore.  
+→ [Take a peek at the walkthrough](./GLOWAURA.md) — a soft visual guide to the structure, styling, and setup.
+
 ---
 
 > *“Designing an online store is more than adding products — it's about creating a seamless experience people want to return to.”*
